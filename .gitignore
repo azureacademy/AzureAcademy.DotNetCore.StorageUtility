@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AzureAcademy.DotNetCore.StorageUtility/obj
+/AzureAcademy.DotNetCore.StorageUtility/bin
